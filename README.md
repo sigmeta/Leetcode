@@ -1,2 +1,3 @@
 # Leetcode
 leetcode
+python
